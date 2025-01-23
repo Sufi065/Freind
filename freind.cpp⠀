@@ -10,7 +10,6 @@ class complex{
         real=x;
         imag=y;
     }
-    
     friend complex operator +(complex,complex);
     
 };
